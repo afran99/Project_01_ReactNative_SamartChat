@@ -7,6 +7,7 @@ export default function App() {
       <Component1/>
       <Component1/>
       <Component1/>
+      <Component1/>
     </View>
   );
 }
